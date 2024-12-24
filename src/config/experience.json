@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Frontend Development Intern",
+    "company": "Stealth Startup",
+    "period": "Sept'24 - present",
+    "location": "Texas, United States",
+    "details": [
+      "Architected a React Native iPad-based restaurant POS system with secure Bearer authentication and role-based access controls.",
+      "Engineered a secure, configurable in-app settings module with PIN protection and auto-sleep authentication for security.",
+      "Implemented dynamic customer management using useContext API, enabling streamlined and real-time order modifications.",
+      "Designed an intuitive ordering interface with category-based menu navigation and item customization.",
+      "Developed a versatile payment system supporting multi-tender transactions, including tips, surcharges, refunds, and split billing.",
+      "Optimized app performance and ensured seamless offline functionality using AsyncStorage and RESTful API integration."
+    ]
+  },
+  {
+    "title": "Software Development Engineer Intern",
+    "company": "Solidity Technologies",
+    "period": "April'24 - July'24",
+    "location": "Gurugram, India",
+    "details": [
+      "Spearheaded mobile app development for Cars24, a unicorn startup in the automotive sector, focusing on user-friendly interfaces.",
+      "Engineered mobile screens using React Native, Redux Toolkit, and React Native Navigation, ensuring seamless user experience.",
+      "Architected and implemented a Finance First checkout flow, resulting in a 30% increase in conversion rates for VIP users.",
+      "Innovated an advanced geospatial feature using react-native-maps and RESTful APIs, improving user experience.",
+      "Drove agile development practices, contributing to sprint planning, daily scrums, and retrospectives, increasing team velocity.",
+      "Championed clean code methodologies and best practices, resulting 50% reduction in bug reports and enhanced maintainability.",
+      "Optimized app performance, achieving a 40% decrease in load times and a 20% increase in user engagement metrics."
+    ]
+  },
+  {
+    "title": "Frontend Development Intern",
+    "company": "Toko Dizital",
+    "period": "March'24 - April'24",
+    "location": "Indonesia",
+    "details": [
+      "Developed an automated Instagram content management system, integrating ChatGPT & DALL-E for creative content generation.",
+      "Implemented Meta REST APIs to facilitate seamless posting and scheduling of Instagram content, enhancing social media workflow.",
+      "Engineered custom VBScript and batch files to automate repetitive tasks, reducing manual workload by 60%",
+      "Orchestrated cron jobs for scheduled execution of scripts, ensuring timely content delivery and improving team productivity by 35%."
+    ]
+  },
+  {
+    "title": "Research Intern",
+    "company": "Defence Research and Development Organisation",
+    "period": "Dec'22 - March'23",
+    "location": "Delhi, India",
+    "details": [
+      "Developed and implemented GIS solutions using Java to enhance wargaming effectiveness and tactical simulations.",
+      "Expanded knowledge by acquiring new graph-based algorithms for complex GIS applications.",
+      "Collaborated with mentors to address algorithm performance challenges and conducted rigorous code validation and debugging."
+    ]
+  }
+]
