@@ -5,7 +5,7 @@ import { FaEye } from "react-icons/fa";
 interface ProjectCardProps {
   id: string;
   liveLink: string;
-  githubLink: string;
+  githubLink?: string;
   title: string;
   imageSrc: string;
 }

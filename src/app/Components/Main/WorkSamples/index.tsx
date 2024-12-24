@@ -10,7 +10,6 @@ const WorkSamples = () => {
             key={index}
             id={project.id}
             liveLink={project.liveLink || "null"}
-            githubLink={project.githubLink || "null"}
             imageSrc={project.imagesrc}
             title={project.title}
           />
