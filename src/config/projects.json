@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "The Urban Cafe",
+    "imagesrc": "urbanCafe.png",
+    "githubLink": "https://github.com/avneet-singh843/resturantPOS"
+  },
+  {
+    "id": "2",
+    "title": "Profit Pilot",
+    "imagesrc": "ProfitPilot.png",
+    "githubLink": "https://github.com/avneet-singh843/FinanceApp"
+  },
+  {
+    "id": "3",
+    "title": "Swift Fix",
+    "imagesrc": "swiftFix.png",
+    "githubLink": "https://github.com/avneet-singh843/TechTitans-1",
+    "liveLink": "https://swift-fix.netlify.app"
+  },
+  {
+    "id": "4",
+    "title": "IEEE MSIT",
+    "imagesrc": "ieee.png",
+    "githubLink": "https://github.com/avneet-singh843/IEEE_MSIT",
+    "liveLink": "http://ieee.msit.in/"
+  },
+  {
+    "id": "5",
+    "title": "Legal Sarthi",
+    "imagesrc": "legalsarthi.png",
+    "githubLink": "https://github.com/avneet-singh843/Error503",
+    "liveLink": "https://legalsarthi.vercel.app/"
+  },
+  {
+    "id": "6",
+    "title": "BookZone",
+    "imagesrc": "bookzone.png",
+    "githubLink": "https://github.com/avneet-singh843/BookZone"
+  }
+]
