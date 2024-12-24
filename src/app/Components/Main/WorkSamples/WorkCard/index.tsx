@@ -37,13 +37,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             </div>
           </a>
         )}
-        {githubLink != "null" && (
-          <a href={githubLink} target="_blank" rel="noopener noreferrer">
-            <div className="bg-[#383838] p-2 rounded-lg">
-              <IoLogoGithub size={23} />
-            </div>
-          </a>
-        )}
       </div>
       <p className="text-[#E3E3E3] absolute pt-1 pl-[5%] tracking-wider">
         {title}
