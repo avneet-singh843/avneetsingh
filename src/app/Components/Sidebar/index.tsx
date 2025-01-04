@@ -24,7 +24,7 @@ const Sidebar = () => {
         <FaChevronDown size={13} />
       </div>
       <div className="md:block flex w-[80%] justify-between md:w-full mx-auto">
-        <div className="bg-[#383839] pb-4 w-[30%] md:w-[65%] rounded-[10px] md:rounded-[35px] mx-auto md:mt-[7vh]">
+        <div className="pb-4 w-[30%] md:w-[65%] rounded-[10px] md:rounded-[35px] mx-auto md:mt-[7vh]">
           <Image
             src="/avneetSingh.jpg"
             alt="Avneet Singh"
