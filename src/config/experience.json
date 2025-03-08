@@ -1,8 +1,22 @@
 [
   {
+    "title": "Software Engineer Intern",
+    "company": "CARS24",
+    "period": "February 2025 - present",
+    "location": "Gurugram, India",
+    "details": [
+      "Redesigned and implemented the Loan section in the Cars24 UAE Mobile app, expanding customer financing services by 40%.",
+      "Developed engaging mobile screens using React Native Redux Toolkit and React Native Navigation to enhance the user experience.",
+      "Developed an intuitive dual-path loan interface with seamless tab-switching functionality, improving user navigation by 25%.",
+      "Implemented secure and responsive authentication flow for loan assistance requests, improving management efficiency by 35%.",
+      "Collaborated effectively in agile development processes by participating in sprint planning, scrums, and detailed retrospectives.",
+      "Promoted clean code practices and industry standards leading to a 50% reduction in bug reports and better code maintainability."
+    ]
+  },
+  {
     "title": "Frontend Development Intern",
     "company": "Stealth Startup",
-    "period": "Sept'24 - present",
+    "period": "Sept'24 - Feb' 2025",
     "location": "Texas, United States",
     "details": [
       "Architected a React Native iPad-based restaurant POS system with secure Bearer authentication and role-based access controls.",
@@ -19,13 +33,9 @@
     "period": "April'24 - July'24",
     "location": "Gurugram, India",
     "details": [
-      "Spearheaded mobile app development for Cars24, a unicorn startup in the automotive sector, focusing on user-friendly interfaces.",
-      "Engineered mobile screens using React Native, Redux Toolkit, and React Native Navigation, ensuring seamless user experience.",
-      "Architected and implemented a Finance First checkout flow, resulting in a 30% increase in conversion rates for VIP users.",
-      "Innovated an advanced geospatial feature using react-native-maps and RESTful APIs, improving user experience.",
-      "Drove agile development practices, contributing to sprint planning, daily scrums, and retrospectives, increasing team velocity.",
-      "Championed clean code methodologies and best practices, resulting 50% reduction in bug reports and enhanced maintainability.",
-      "Optimized app performance, achieving a 40% decrease in load times and a 20% increase in user engagement metrics."
+      "Contributed to mobile app development for a leading automotive industry company delivering intuitive user interfaces.",
+      "Designed and implemented Finance First checkout flow driving a 30% increase in conversion rates for VIP users.",
+      "Enhanced the app with geospatial feature leveraging react-native-maps and RESTful APIs for improved location-based services."
     ]
   },
   {
@@ -36,8 +46,7 @@
     "details": [
       "Developed an automated Instagram content management system, integrating ChatGPT & DALL-E for creative content generation.",
       "Implemented Meta REST APIs to facilitate seamless posting and scheduling of Instagram content, enhancing social media workflow.",
-      "Engineered custom VBScript and batch files to automate repetitive tasks, reducing manual workload by 60%",
-      "Orchestrated cron jobs for scheduled execution of scripts, ensuring timely content delivery and improving team productivity by 35%."
+      "Engineered custom VBScript and batch files to automate repetitive tasks, reducing manual workload by 60%"
     ]
   },
   {
